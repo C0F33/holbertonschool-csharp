@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coffee/holbertonschool-csharp/csharp-hello_world/8-print-variables/8-print-variables.csproj",
-      "projectName": "8-print-variables",
-      "projectPath": "/Users/coffee/holbertonschool-csharp/csharp-hello_world/8-print-variables/8-print-variables.csproj",
+      "projectUniqueName": "/Users/coffee/holbertonschool-csharp/csharp-hello_world/8-print_variables/8-print_variables.csproj",
+      "projectName": "8-print_variables",
+      "projectPath": "/Users/coffee/holbertonschool-csharp/csharp-hello_world/8-print_variables/8-print_variables.csproj",
       "packagesPath": "/Users/coffee/.nuget/packages/",
-      "outputPath": "/Users/coffee/holbertonschool-csharp/csharp-hello_world/8-print-variables/obj/",
+      "outputPath": "/Users/coffee/holbertonschool-csharp/csharp-hello_world/8-print_variables/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/coffee/.nuget/NuGet/NuGet.Config"
