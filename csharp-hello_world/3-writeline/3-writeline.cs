@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("\"Programming is like building a multilingual puzzle\n");
+        Console.WriteLine("\"Programming is like building a multilingual puzzle");
     }
 }
 
