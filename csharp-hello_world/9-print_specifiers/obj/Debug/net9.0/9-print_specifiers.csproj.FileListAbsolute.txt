@@ -1,0 +1,15 @@
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.deps.json
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.runtimeconfig.json
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.dll
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net9.0/9-print_specifiers.pdb
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.AssemblyInfoInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.AssemblyInfo.cs
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.sourcelink.json
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.dll
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/refint/9-print_specifiers.dll
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.pdb
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/9-print_specifiers.genruntimeconfig.cache
+/Users/coffee/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net9.0/ref/9-print_specifiers.dll
