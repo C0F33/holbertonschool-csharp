@@ -1,0 +1,1 @@
+This directory contains C# fundamentals working with if statements, switch cases and Loops.
