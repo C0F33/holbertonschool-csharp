@@ -1,9 +1,10 @@
-﻿class Program
+﻿using System;
+class Program
 {
     static void Main()
     {
         Random rand = new Random();
-        int number = rand.Next(-10, 11); // Random number between -10 and 10
+        int number = rand.Next(-10, 11);
 
         Console.WriteLine(number);
 
