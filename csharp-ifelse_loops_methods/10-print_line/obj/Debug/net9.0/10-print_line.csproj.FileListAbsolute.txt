@@ -1,0 +1,15 @@
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net9.0/10-print_line
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net9.0/10-print_line.deps.json
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net9.0/10-print_line.runtimeconfig.json
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net9.0/10-print_line.dll
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/bin/Debug/net9.0/10-print_line.pdb
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.AssemblyInfoInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.AssemblyInfo.cs
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.csproj.CoreCompileInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.sourcelink.json
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.dll
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/refint/10-print_line.dll
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.pdb
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/10-print_line.genruntimeconfig.cache
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/10-print_line/obj/Debug/net9.0/ref/10-print_line.dll
