@@ -23,6 +23,6 @@ class Program
                 Console.Write(i + " ");
             }
         }
-        Console.WriteLine();
+        Console.Write('\n');
     }
 }
