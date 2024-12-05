@@ -12,8 +12,10 @@ class Program
             }
             else
             {
-                System.Console.Write($"{number:D2}");
+                System.Console.Write($"{number:D2}\n");
+            
             }
         }
+        
     }
 }
