@@ -1,0 +1,14 @@
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.deps.json
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.runtimeconfig.json
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.runtimeconfig.dev.json
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.dll
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/bin/Debug/netcoreapp2.1/8-print_last_digit.pdb
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.csproj.AssemblyReference.cache
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.AssemblyInfoInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.AssemblyInfo.cs
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.csproj.CoreCompileInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.sourcelink.json
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.dll
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.pdb
+/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/8-print_last_digit/obj/Debug/netcoreapp2.1/8-print_last_digit.genruntimeconfig.cache

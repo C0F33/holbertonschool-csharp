@@ -4,13 +4,10 @@ class Number
 {
     public static int PrintLastDigit(int number)
     {
-        // Get the absolute value of the last digit
-        int lastDigit = Math.Abs(number % 10);
-        
-        // Print the last digit
+        int lastDigit = number % 10;
+        if (lastDigit < 0)
+        {lastDigit = -lastDigit;}
         Console.Write(lastDigit);
-        
-        // Return the last digit
         return lastDigit;
     }
 }
