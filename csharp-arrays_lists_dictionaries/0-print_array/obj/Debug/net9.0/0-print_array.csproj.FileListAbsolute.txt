@@ -1,0 +1,15 @@
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net9.0/0-print_array
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net9.0/0-print_array.deps.json
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net9.0/0-print_array.runtimeconfig.json
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net9.0/0-print_array.dll
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net9.0/0-print_array.pdb
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.AssemblyInfoInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.AssemblyInfo.cs
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.csproj.CoreCompileInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.sourcelink.json
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.dll
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/refint/0-print_array.dll
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.pdb
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/0-print_array.genruntimeconfig.cache
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net9.0/ref/0-print_array.dll
