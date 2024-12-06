@@ -9,7 +9,7 @@ class Array
             Console.Write(array[i]);
             if (i > 0)
             {
-                Console.Write(", ");
+                Console.Write(" ");
             }
         }
         Console.WriteLine();
