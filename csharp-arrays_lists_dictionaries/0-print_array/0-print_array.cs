@@ -21,9 +21,14 @@ class Array
         for (int i = 0; i < size; i++)
         {
             result[i] = i;
-            Console.Write(i);
-            if (i < size - 1)
-                Console.Write(", ");
+        }
+        
+        foreach (int num in result)
+        {
+            if (num != result[size - 1])
+                Console.Write($"{num}, ");
+            else
+                Console.Write(num);
         }
         Console.WriteLine();
 
