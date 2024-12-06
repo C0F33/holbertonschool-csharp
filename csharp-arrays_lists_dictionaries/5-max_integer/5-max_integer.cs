@@ -10,9 +10,9 @@ class List
             Console.WriteLine("List is empty");
             return -1;
         }
-        
+
         int max = myList[0];
-        
+
         foreach (int num in myList)
         {
             if (num > max)
@@ -23,3 +23,4 @@ class List
 
         return max;
     }
+}
