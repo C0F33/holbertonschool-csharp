@@ -1,0 +1,5 @@
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net9.0/5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net9.0/5-max_integer.AssemblyInfoInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net9.0/5-max_integer.AssemblyInfo.cs
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net9.0/5-max_integer.csproj.CoreCompileInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net9.0/5-max_integer.sourcelink.json
