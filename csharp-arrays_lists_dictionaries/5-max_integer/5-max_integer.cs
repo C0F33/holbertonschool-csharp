@@ -3,26 +3,23 @@ using System.Collections.Generic;
 
 class List
 {
-    public static List<int> CreatePrint(int size)
+    public static int MaxInteger(List<int> myList)
     {
-        if (size < 0)
+        if (myList == null || myList.Count == 0)
         {
-            Console.WriteLine("Size cannot be negative");
-            return null;
+            Console.WriteLine("List is empty");
+            return -1;
+        }
+        
+        int max = myList[0];
+        
+        foreach (int num in myList)
+        {
+            if (num > max)
+            {
+                max = num;
+            }
         }
 
-        List<int> newList = new List<int>();
-
-        for (int i = 0; i < size; i++)
-        {
-            newList.Add(i);
-            Console.Write(i);
-            if (i != size - 1)
-                Console.Write(" ");
-        }
-
-        Console.WriteLine();
-
-        return newList;
+        return max;
     }
-}
