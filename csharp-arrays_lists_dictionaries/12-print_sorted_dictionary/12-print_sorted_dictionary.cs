@@ -7,6 +7,6 @@ class Dictionary
     {
         SortedList<string, string> keys = new SortedList<string, string>(myDict);
         foreach (KeyValuePair<string, string> x in keys)
-            Console.WriteLine("{0} - {1}", x.Key, x.Value);
+            Console.WriteLine("{0}: {1}", x.Key, x.Value);
     }
 }
