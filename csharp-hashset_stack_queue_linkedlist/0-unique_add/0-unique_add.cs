@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 class List
 {
-    public stitc in Sum(List<int> myList)
+    public static int Sum(List<int> myList)
     {
-        var newList = newList<int>;
+        var newList = new List<int>();
         var sum = 0;
 
         foreach (var number in myList)
@@ -16,6 +16,7 @@ class List
 
         foreach (var number in newList)
             sum += number;
-        return (sum);
+
+        return sum;
     }
 }
