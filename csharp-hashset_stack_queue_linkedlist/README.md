@@ -1,0 +1,1 @@
+This directory contains work with data strutures such as dictionaries, linked lists, hash sets, stacks and queues
