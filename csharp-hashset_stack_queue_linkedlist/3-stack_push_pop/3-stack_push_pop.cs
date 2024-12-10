@@ -3,9 +3,10 @@ using System.Collections.Generic;
 
 class MyStack
 {
-    public static Stack<string> Info(Stack<string> aStack, string aItem, string search)
+    public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
         Console.WriteLine("Number of items: {0}", aStack.Count);
+
         if (aStack.Count <= 0)
         {
             Console.WriteLine("Stack is empty");
@@ -18,13 +19,28 @@ class MyStack
         if (aStack.Contains(search))
         {
             Console.WriteLine("Stack contains \"{0}\": True", search);
-            while (aStack.Contains(search))
-                aStack.Pop();
+
+            // Use a temporary stack to help remove items up to and including 'search'
+            Stack<string> tempStack = new Stack<string>();
+            while (aStack.Peek() != search)
+            {
+                tempStack.Push(aStack.Pop());
+            }
+            // Pop the 'search' item
+            aStack.Pop();
+
+            // Return the remaining items back to the original stack
+            while (tempStack.Count > 0)
+            {
+                aStack.Push(tempStack.Pop());
+            }
         }
         else
+        {
             Console.WriteLine("Stack contains \"{0}\": False", search);
+        }
 
-        aStack.Push(aItem);
+        aStack.Push(newItem);
         return aStack;
     }
 }
