@@ -11,7 +11,7 @@ class LList
         {
             if(i == index)
                 myLList.Remove(current);
-            x += 1;
+            i += 1;
             current = current.Next;
         }
     }
