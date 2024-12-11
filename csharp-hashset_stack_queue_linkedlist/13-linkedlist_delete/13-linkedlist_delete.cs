@@ -7,11 +7,16 @@ class LList
     {
         LinkedListNode<int> current = myLList.First;
         int i = 0;
+
         while (current != null)
         {
-            if(i == index)
+            if (i == index)
+            {
                 myLList.Remove(current);
-            i += 1;
+                return;
+            }
+
+            i++;
             current = current.Next;
         }
     }
