@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8-print_last_digit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23859db80e8a48c812021b80572e60e007125c59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+486be72601cb321fab45fb33a0607083ac40aeb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("8-print_last_digit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8-print_last_digit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

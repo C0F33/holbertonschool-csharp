@@ -1,12 +1,14 @@
 ﻿using System;
 
-class Program
+namespace _2_print_alphabet
 {
-    static void Main(string[] args)
+    class Program
     {
-        for (char letter = 'a'; letter <= 'z'; letter++)
+        static void Main(string[] args)
         {
-            Console.Write(letter);
+            int a = 97;
+            for(; a<=122; a++)
+                Console.Write((char)a);
         }
     }
 }

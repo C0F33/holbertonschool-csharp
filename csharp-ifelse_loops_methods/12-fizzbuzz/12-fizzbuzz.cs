@@ -1,28 +1,26 @@
 ﻿using System;
 
-class Program
+namespace _12_fizzbuzz
 {
-    static void Main(string[] args)
+    class Program
     {
-        for (int i = 1; i <= 100; i++)
+        static void Main(string[] args)
         {
-            if (i % 3 == 0 && i % 5 == 0)
+            for(int i = 1; i<=100; i++)
             {
-                Console.Write("FizzBuzz ");
-            }
-            else if (i % 3 == 0)
-            {
-                Console.Write("Fizz ");
-            }
-            else if (i % 5 == 0)
-            {
-                Console.Write("Buzz ");
-            }
-            else
-            {
-                Console.Write(i + " ");
+                if(i % 3 == 0 && i % 5 == 0)
+                    Console.Write("FizzBuzz");
+                else if(i % 3 == 0)
+                    Console.Write("Fizz");
+                else if(i % 5 == 0)
+                    Console.Write("Buzz");
+                else
+                    Console.Write(i);
+                if(i <= 99)
+                    Console.Write(" ");
+                else
+                    Console.WriteLine();
             }
         }
-        Console.Write('\n');
     }
 }

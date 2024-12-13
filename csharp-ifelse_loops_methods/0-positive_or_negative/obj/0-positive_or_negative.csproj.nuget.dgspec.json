@@ -13,6 +13,7 @@
         "packagesPath": "/Users/coffee/.nuget/packages/",
         "outputPath": "/Users/coffee/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/coffee/.nuget/NuGet/NuGet.Config"
         ],
@@ -37,8 +38,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net9.0": {
