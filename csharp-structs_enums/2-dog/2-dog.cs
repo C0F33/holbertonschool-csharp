@@ -1,4 +1,5 @@
 ﻿using System;
+
 public enum Rating
 {
     Good,
@@ -6,16 +7,16 @@ public enum Rating
     Excellent
 }
 
+
 public struct Dog
-{ 
-    public Dog(string name, float age, string owner, Rating rating)
+{
+    public Dog(string _name, float _age, string _owner, Rating _rating)
     {
         name = _name;
         age = _age;
         owner = _owner;
         rating = _rating;
     }
-
     public string name;
     public float age;
     public string owner;
