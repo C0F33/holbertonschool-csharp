@@ -1,8 +1,9 @@
 ﻿using System;
 
+
 class Except
 {
-    public static Throw()
+    public static void Throw()
     {
         throw new Exception();
     }
