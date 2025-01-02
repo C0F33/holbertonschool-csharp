@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coffee/holbertonschool-csharp/csharp-exceptions/3-throw_exceptions/3-throw_exceptions.csproj",
-      "projectName": "3-throw_exceptions",
-      "projectPath": "/Users/coffee/holbertonschool-csharp/csharp-exceptions/3-throw_exceptions/3-throw_exceptions.csproj",
+      "projectUniqueName": "/Users/coffee/holbertonschool-csharp/csharp-exceptions/3-throw_exception/3-throw_exception.csproj",
+      "projectName": "3-throw_exception",
+      "projectPath": "/Users/coffee/holbertonschool-csharp/csharp-exceptions/3-throw_exception/3-throw_exception.csproj",
       "packagesPath": "/Users/coffee/.nuget/packages/",
-      "outputPath": "/Users/coffee/holbertonschool-csharp/csharp-exceptions/3-throw_exceptions/obj/",
+      "outputPath": "/Users/coffee/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/coffee/.nuget/NuGet/NuGet.Config"
