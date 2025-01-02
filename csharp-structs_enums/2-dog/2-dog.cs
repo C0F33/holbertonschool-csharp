@@ -10,9 +10,9 @@ public struct Dog
 { 
     public Dog(string name, float age, string owner, Rating rating)
     {
-        name = name;
-        age = age;
-        owner = owner;
+        name = _name;
+        age = _age;
+        owner = _owner;
         rating = _rating;
     }
 
