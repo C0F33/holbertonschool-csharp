@@ -6,7 +6,7 @@ namespace Enemies
     class Zombie
     {
         /// <summary> field health</summary>
-        int health;
+        public int health;
         /// public constructor.
         public Zombie()
         {
