@@ -2,7 +2,7 @@
 
 namespace Enemies
 {
-    /// <summary> Empty Zombie class</summary>
+    /// Empty Zombie class.
     class Zombie
     {
    
