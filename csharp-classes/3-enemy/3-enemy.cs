@@ -22,7 +22,7 @@ namespace Enemies
             health = value;
         }
         /// Health method
-        public int getHealth()
+        public int GetHealth()
         {
             return health;
         }
