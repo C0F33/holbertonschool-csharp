@@ -10,7 +10,7 @@ namespace Enemies
         /// public constructor.
         public Zombie()
         {
-            this.health = 0;
+            health = 0;
         }
         /// Zombie 
         public Zombie(int value)
@@ -19,12 +19,12 @@ namespace Enemies
             {
                 throw new ArgumentException("Health must be greater than or equal to 0");
             }
-            this.health = value;
+            health = value;
         }
         /// Health method
         public int getHealth()
         {
-            return this.health;
+            return health;
         }
     }
 }
