@@ -5,7 +5,9 @@ namespace Enemies
     /// <summary> public class zombie</summary>
     class Zombie
     {
-        public int health;
+        private int health;
+        /// default name No name
+        private string name = default "(No name)";
         /// public constructor.
         public Zombie()
         {
@@ -13,8 +15,7 @@ namespace Enemies
         }
 
         /// <summary> field health</summary>
-        string name = default "(No name)";
-        public string name;
+        public string Name;
         {
             get
             {
