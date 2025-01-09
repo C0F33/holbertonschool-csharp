@@ -50,7 +50,7 @@ namespace Enemies
 
         public override ToString()
         {
-            return $"Zombie Name: <name> / Health: <health>";
+            return string.Format("Zombie Name: {0} / Health: {1}", nameof, health);
         }
     }
 }
