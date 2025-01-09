@@ -2,20 +2,34 @@
 
 namespace Enemies
 {
-    /// <summary> public class zombie</summary>
+    /// <summary>Defines a Zombie class.</summary>
     class Zombie
     {
-        /// <summary> field health</summary>
+        /// <summary>Field to store the zombie's health.</summary>
         private int health;
-        /// default name No name
-        private string name = default "(No name)";
-        /// <summary>public constructor.<summary/>
+
+        /// <summary>Default name is "(No name)".</summary>
+        private string name = "(No name)";
+
+        /// <summary>Default constructor, initializes health to 0.</summary>
         public Zombie()
         {
             health = 0;
         }
-        /// Public <summary>Name getter sette <summary/>
-        public string Name;
+
+        /// <summary>Constructor that sets health to a specific value.</summary>
+        /// <param name="value">The initial health value.</param>
+        public Zombie(int value)
+        {
+            if (value < 0)
+            {
+                throw new ArgumentException("Health must be greater than or equal to 0");
+            }
+            health = value;
+        }
+
+        /// <summary>Gets or sets the name of the zombie.</summary>
+        public string Name
         {
             get
             {
@@ -23,20 +37,12 @@ namespace Enemies
             }
             set
             {
-                name=value;
+                name = value;
             }
         }
-        /// <summary>Zombie <summary/>
-        public Zombie(int value)
-        {
-            if (value <= 0)
-            {
-                throw new ArgumentException("Health must be greater than or equal to 0");
-            }
-            health = value;
-        }
-        p
-        /// <summary>Health method<summary/>
+
+        /// <summary>Gets the current health of the zombie.</summary>
+        /// <returns>The health value.</returns>
         public int GetHealth()
         {
             return health;
