@@ -5,10 +5,7 @@ namespace Enemies
     /// <summary>Defines a Zombie class.</summary>
     class Zombie
     {
-        /// <summary>Field to store the zombie's health.</summary>
         private int health;
-
-        /// <summary>Default name is "(No name)".</summary>
         private string name = "(No name)";
 
         /// <summary>Default constructor, initializes health to 0.</summary>
@@ -41,17 +38,16 @@ namespace Enemies
             }
         }
 
-        /// <summary>Gets the current health of the zombie.</summary>
-        /// <returns>The health value.</returns>
+        /// <summary>Returns the health of the zombie.</summary>
         public int GetHealth()
         {
             return health;
         }
 
-        /// <summary>Overrides the ToString method to display zombie details.</summary>
+        /// <summary>Returns a string representation of the zombie.</summary>
         public override string ToString()
         {
-            return string.Format("Zombie Name: {0} / Health: {1}", name, health);
+            return String.Format("Zombie Name: {0} / Total Health: {1}", name, health);
         }
     }
 }
