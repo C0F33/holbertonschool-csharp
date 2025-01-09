@@ -5,16 +5,16 @@ namespace Enemies
     /// <summary> public class zombie</summary>
     class Zombie
     {
+        /// <summary> field health</summary>
         private int health;
         /// default name No name
         private string name = default "(No name)";
-        /// public constructor.
+        /// <summary>public constructor.<summary/>
         public Zombie()
         {
             health = 0;
         }
-
-        /// <summary> field health</summary>
+        /// Public <summary>Name getter sette <summary/>
         public string Name;
         {
             get
@@ -26,7 +26,7 @@ namespace Enemies
                 name=value;
             }
         }
-        /// Zombie 
+        /// <summary>Zombie <summary/>
         public Zombie(int value)
         {
             if (value <= 0)
@@ -36,7 +36,7 @@ namespace Enemies
             health = value;
         }
         p
-        /// Health method
+        /// <summary>Health method<summary/>
         public int GetHealth()
         {
             return health;
