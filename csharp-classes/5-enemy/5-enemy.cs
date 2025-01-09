@@ -47,10 +47,11 @@ namespace Enemies
         {
             return health;
         }
-/// <summary> ToString override</summary>
-        public override ToString()
+
+        /// <summary>Overrides the ToString method to display zombie details.</summary>
+        public override string ToString()
         {
-            return String.Format("Zombie Name: {0} / Health: {1}", nameof, health);
+            return string.Format("Zombie Name: {0} / Health: {1}", name, health);
         }
     }
 }
