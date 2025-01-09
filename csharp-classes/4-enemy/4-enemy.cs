@@ -14,9 +14,16 @@ namespace Enemies
 
         /// <summary> field health</summary>
         string name = default "(No name)";
-        public string name;{
-            get => name;
-            set => name = value;
+        public string name;
+        {
+            get
+            {
+                return name;
+            }
+            set
+            {
+                name=value;
+            }
         }
         /// Zombie 
         public Zombie(int value)
