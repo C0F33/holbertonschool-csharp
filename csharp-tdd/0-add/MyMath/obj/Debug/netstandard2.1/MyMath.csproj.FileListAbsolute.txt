@@ -1,0 +1,11 @@
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.1/MyMath.xml
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.1/MyMath.deps.json
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.1/MyMath.dll
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.1/MyMath.pdb
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.AssemblyInfoInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.AssemblyInfo.cs
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.csproj.CoreCompileInputs.cache
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.sourcelink.json
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.dll
+/Users/coffee/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.1/MyMath.pdb
