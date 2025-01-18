@@ -79,13 +79,13 @@ class Square : Rectangle
                 throw new ArgumentException("Size must be greater than or equal to 0");
             }
             size = value;
-            height = value;
-            width = value;
+            Height = value;
+            Width = value;
         }
         /// <summary>Overrides ToString()</summary>
         public override string ToString()
     {
-        return string.Format("[Square] {0} / {0}", size);
+        return string.Format("[Square] {0} / {1}", size);
     }
             
     }
