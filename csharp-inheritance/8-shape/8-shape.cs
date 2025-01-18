@@ -63,15 +63,15 @@ class Rectangle : Shape
     class Square : Rectangle
     {
         private int size
-        {
-            
-        }
         public int Size
         {
-            get { return size; }
+            get
+            {
+                return size;
+            }
             set
             {
-                if value < 0
+                if (value < 0)
                 {
                     throw new ArgumentException("Size must be greater than or equal to 0");
                 }
