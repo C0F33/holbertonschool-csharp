@@ -79,8 +79,8 @@ class Square : Rectangle
                 throw new ArgumentException("Size must be greater than or equal to 0");
             }
             size = value;
-            height = size;
-            width = size;
+            Height = size;
+            Width = size;
         }
         /// <summary>Overrides ToString()</summary>
         public override string ToString()
