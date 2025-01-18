@@ -85,7 +85,7 @@ class Square : Rectangle
         /// <summary>Overrides ToString()</summary>
         public override string ToString()
     {
-        return string.Format("[Square] {0} / {1}", size);
+        return string.Format("[Square] {0} / {1}", size, size);
     }
             
     }
