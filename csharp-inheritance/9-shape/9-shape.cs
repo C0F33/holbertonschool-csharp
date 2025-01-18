@@ -6,16 +6,14 @@ class Shape
     ///<summary>Throws an NotImplementedException</summary>
     public virtual int Area()
     {
-        throw new NotImplementedException("Area() is not implemented");
+       throw new NotImplementedException("Area() is not implemented");
     }
 }
-
+///<summary>class Rectangle</summary>
 class Rectangle : Shape
 {
     private int width;
-    private int height;
-
-    ///<summary> public property Width / get: retrieve width / set: set width or exception</summary>
+    private int height;    ///<summary> public property Width / get: retrieve width / set: set width or exception</summary>
     public int Width
     {
         get
@@ -61,11 +59,13 @@ class Rectangle : Shape
     }
 
 
-
 }
+///<summary>class Square</summary>
 class Square : Rectangle
 {
     private int size;
+
+    /// <summary> public property size</summary>
     public int Size
     {
         get
@@ -79,14 +79,17 @@ class Square : Rectangle
                 throw new ArgumentException("Size must be greater than or equal to 0");
             }
             size = value;
-            Height = size;
             Width = size;
+            Height = size;
         }
-        /// <summary>Overrides ToString()</summary>
-        public override string ToString()
+    }
+
+    /// <summary> public property ToString()</summary>
+    public override string ToString()
     {
         return string.Format("[Square] {0} / {1}", size, size);
     }
-            
-    }
+
+
+
 }
