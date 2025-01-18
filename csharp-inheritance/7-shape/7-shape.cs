@@ -49,11 +49,11 @@ class Rectangle : Shape
         }
     }
 
-    public new int Area()
+    public override int Area()
     {
         return height*width;
     }
-    /// <summary> public property ToString()</summary>
+    /// <summary> public property override ToString()</summary>
     public override string ToString()
     {
         return string.Format("[Rectangle] {0} / {1}", width, height);
