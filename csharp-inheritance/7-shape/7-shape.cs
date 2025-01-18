@@ -6,7 +6,7 @@ class Shape
     ///<summary>Throws an NotImplementedException</summary>
     public virtual int Area()
     {
-        throw new NotImplementedException("Area() is not implemented");
+       throw new NotImplementedException("Area() is not implemented");
     }
 }
 
@@ -54,7 +54,7 @@ class Rectangle : Shape
     {
         return height*width;
     }
-    /// <summary> public property override ToString()</summary>
+    /// <summary> public property ToString()</summary>
     public override string ToString()
     {
         return string.Format("[Rectangle] {0} / {1}", width, height);
