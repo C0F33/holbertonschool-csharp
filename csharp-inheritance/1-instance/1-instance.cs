@@ -7,6 +7,6 @@ class Obj
 >
     public static bool IsInstanceOfArray(object obj)
     {
-        return (IsInstanceOfArray(true) || IsInstanceOfArray(false));
+        return obj is Array;
     }
 }
