@@ -60,6 +60,9 @@ class Rectangle : Shape
         return string.Format("[Rectangle] {0} / {1}", width, height);
     }
 
+
+
+}
     class Square : Rectangle
     {
         private int size
@@ -80,6 +83,3 @@ class Rectangle : Shape
             
         }
     }
-
-
-}
