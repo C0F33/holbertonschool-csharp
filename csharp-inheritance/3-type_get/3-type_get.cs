@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Reflection;
+using System.Collections.Generic;
 
 class Obj
 {
@@ -11,20 +12,26 @@ class Obj
             return;
         }
 
-        Type type = myObj.GetType();
+        // Get the Type and TypeInfo
+        Type _Type = myObj.GetType();
+        TypeInfo _TInfo = _Type.GetTypeInfo();
 
-        // Print the properties
-        Console.WriteLine("Properties:");
-        foreach (PropertyInfo property in type.GetProperties())
+        // Get the properties and methods
+        IEnumerable<PropertyInfo> propList = _Type.GetProperties();
+        IEnumerable<MethodInfo> methList = _Type.GetMethods();
+
+        // Print properties
+        Console.WriteLine("{0} Properties:", _Type.Name);
+        foreach (PropertyInfo i in propList)
         {
-            Console.WriteLine(property.Name);
+            Console.WriteLine(i.Name);
         }
 
-        // Print the methods
-        Console.WriteLine("Methods:");
-        foreach (MethodInfo method in type.GetMethods())
+        // Print methods
+        Console.WriteLine("{0} Methods:", _Type.Name);
+        foreach (MethodInfo j in methList)
         {
-            Console.WriteLine(method.Name);
+            Console.WriteLine(j.Name);
         }
     }
 }
