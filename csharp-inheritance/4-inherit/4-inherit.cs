@@ -1,14 +1,15 @@
 ﻿using System;
-using Sytem.Collections.Generic;
+using System.Collections.Generic;
 
-/// <summary>Empty animal class</summary>
+///<summary>empty inherits from class Animal</summary>
 class Dog:Animal
 {
-    
+
 }
 
-/// <summary>Dog class inherits from Animal</summary>
+///<summary>class Animal</summary>
 class Animal
 {
     
+
 }
