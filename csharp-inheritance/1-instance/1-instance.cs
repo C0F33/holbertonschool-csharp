@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Obj
 {
-    /// <summary> Returns true if instance is Array <summary/>
+    ///<summary>Returns true if instance is Array</summary>
     public static bool IsInstanceOfArray(object obj)
     {
         return (typeof(Array).IsInstanceOfType(obj));
