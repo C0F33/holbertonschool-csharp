@@ -9,7 +9,7 @@ class VectorMath
     /// Method that calculates and returns the length of a given vector.
     /// </summary>
     /// <param name="vector">2D or 3D vector.</param>
-    /// <returns>returns the length rounded to the nearest hundredth.</
+    /// <returns>returns the length rounded to the nearest hundredth.</returns>
     public static double Magnitude(double[] vector)
     {
         if (vector.Length < 2 || vector.Length > 3)
