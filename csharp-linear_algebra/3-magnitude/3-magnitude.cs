@@ -1,13 +1,20 @@
 ﻿using System.Collections.Generic;
 using System;
-
+/// <summary>
+/// VectorMath class.
+/// </summary>
 class VectorMath
 {
+    /// <summary>
+    /// Method that calculates and returns the length of a given vector.
+    /// </summary>
+    /// <param name="vector">2D or 3D vector.</param>
+    /// <returns>returns the length rounded to the nearest hundredth.</
     public static double Magnitude(double[] vector)
     {
         if (vector.Length < 2 || vector.Length > 3)
         {
-            return -1; // Invalid vector size
+            return -1;
         }
 
         double sum = 0;
