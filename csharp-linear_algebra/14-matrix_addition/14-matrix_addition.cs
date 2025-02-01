@@ -17,16 +17,10 @@ class MatrixMath
     public static double[,] Add(double[,] matrix1, double[,] matrix2)
     {
         // Get dimensions of the matrices
-        int row0 = matrix1.GetLength(0);
-        int col0 = matrix1.GetLength(1);
-        int row1 = matrix2.GetLength(0);
-        int col1 = matrix2.GetLength(1);
-
-        // Check if matrices have matching dimensions
-        if (row1 != row0 || col0 != col1)
-        {
-            return new double[,] { { -1 } }; // Return error matrix
-        }
+        if (matrix1.Length != matrix2.Length ||
+            matrix1.GetLength(0) != matrix1.GetLength(1) ||
+            matrix2.GetLength(0) != matrix2.GetLength(1)){
+            return (new Double[,]{{-1}});
 
         // Initialize result matrix with correct dimensions
         double[,] result = new double[row0, col0];
