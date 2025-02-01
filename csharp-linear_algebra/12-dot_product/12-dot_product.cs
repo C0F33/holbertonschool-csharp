@@ -1,10 +1,20 @@
 ﻿using System.Collections.Generic;
 using System;
-
+/// <summary>
+/// Empty
+/// </summary>
 class VectorMath
 {
+    /// <summary>
+    ///  Matth class
+    /// </summary>
+    /// <param name="vector1"></param>
+    /// <param name="vector2"></param>
+    /// <returns></returns>
+    /// <exception cref="ArgumentException"></exception>
     public static double DotProduct(double[] vector1, double[] vector2)
     {
+        
         if (vector1.Length != vector2.Length)
         {
             throw new ArgumentException("Vectors must have the same length.");
